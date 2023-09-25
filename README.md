@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <div>
   <img width="420px" src="https://github-readme-stats.vercel.app/api?username=janeidig&show_icons=true">
